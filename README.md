@@ -1,13 +1,18 @@
 <h2 align="center">👋🏿 Olá me chamo Aclelino</h2><br>
 
-<h4 align = "center">
-- 👨🏿‍🎓 Software Developer <br>
-- 👨🏿‍💻 Back-End <br>
-- Data Science <br>
-- Python <br>
- Banco de dados : <br>
-   Mysql , Sqlite , Mariadb , Mongodb<br>
-</h4>
+
+# Skill
+
+  * Software Developer 
+  * Back-End 
+  * Data Science
+  * Python
+  * Desing 3d
+  * Assets Game
+  * Unity
+ # Banco de dados : 
+     :Mysql , Sqlite , Mariadb , Mongodb
+
  
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
