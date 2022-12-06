@@ -1,4 +1,5 @@
-<h2 align="center">👋🏿 Hello my name is Aclelino</h2><br>
+<h2 align="center">👋🏿 Hello my name is Aclelino 👨🏿‍🚀</h2><br>
+- Made in Brazil 🇧🇷.
 
 
 # Skill
@@ -10,8 +11,11 @@
   * Desing 3d
   * Assets Game
   * Unity
+  * Dev Web
+  * Redes de Internet
+
  # Banco de dados : 
-     :Mysql , Sqlite , Mariadb , Mongodb
+     Mysql , Sqlite , Mariadb , Mongodb
 
  
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
